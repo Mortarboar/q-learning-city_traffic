@@ -1,8 +1,6 @@
-# q-learning-city_traffic
-基於 Q-Learning 強化學習之都市空間決策與交通分流模擬器。探討 AI 如何在充滿路況阻力的都市路網中，演化出具備全域視野的最佳通勤動線。
-# 🚦 UrbanQ：基於 Q-Learning 強化學習之都市空間決策模擬器 
+#  UrbanQ：基於 Q-Learning 強化學習之都市空間決策模擬器 
 **(UrbanQ: Q-Learning Urban Spatial Decision Simulator)**
-
+基於 Q-Learning 強化學習之都市空間決策與交通分流模擬器。探討 AI 如何在充滿路況阻力的都市路網中，演化出具備全域視野的最佳通勤動線。
 ![Open Source](https://img.shields.io/badge/Open%20Source-%E9%96%8B%E6%BA%90-success?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
